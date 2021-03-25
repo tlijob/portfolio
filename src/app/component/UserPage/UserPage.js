@@ -6,7 +6,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import ShareIcon from '@material-ui/icons/Share';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
-import AvatarIcon from '../../../assets/image/avatar.png';
+import AvatarIcon from '../../../assets/image/avatar.jpeg';
 import BackgroundImage from '../../../assets/image/background-03.jpg';
 import ReactCardFlip from 'react-card-flip';
 import { content } from '../../constants/content';
